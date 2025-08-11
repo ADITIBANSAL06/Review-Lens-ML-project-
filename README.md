@@ -9,6 +9,7 @@ It uses web scraping, Natural Language Processing (NLP), and data visualization 
 ---
 
 Features
+
 -Brand Comparison: Analyze up to **three brands** for a given product.
 -Web Scraping: Automatically fetch product reviews from the web.
 -Sentiment Analysis: Classify reviews as Positive, Negative, or Neutral using NLP.
@@ -18,6 +19,7 @@ Features
 ---
 
 Tech Stack
+
 -Python
 -Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `textblob` (or `nltk`), `requests`
 -Tools: Jupyter Notebook / VS Code
