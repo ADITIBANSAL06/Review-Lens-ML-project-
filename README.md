@@ -26,3 +26,9 @@ Tech Stack
 -Data Source: Web-scraped product reviews
 
 ---
+
+Snippets Link
+
+https://github.com/ADITIBANSAL06/Review-Lens-ML-project-/blob/main/review%20lens%20ouput%20ss.jpeg
+
+https://github.com/ADITIBANSAL06/Review-Lens-ML-project-/blob/main/review%20lens%20interface.jpeg
