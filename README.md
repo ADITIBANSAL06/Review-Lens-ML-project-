@@ -1,5 +1,26 @@
 # Review-Lens-ML-project-
-AI powered Sentiment analysis for Brand comparison 
 
-Review Lens help users gain insights into public opinion about products and brands by analysing online reviews.
-This approach not only aids in understanding customer sentiment but also supports strategic decision making for improving brand comparison and performance satisfaction.
+
+Sentiment Analysis for Brand Comparison
+
+This project helps users compare multiple brands of the same product based on customer reviews.  
+It uses web scraping, Natural Language Processing (NLP), and data visualization to analyze sentiment and determine which brand has the most positive feedback.
+
+---
+
+Features
+-Brand Comparison: Analyze up to **three brands** for a given product.
+-Web Scraping: Automatically fetch product reviews from the web.
+-Sentiment Analysis: Classify reviews as Positive, Negative, or Neutral using NLP.
+-Graphical Insights: Visual comparison of sentiments across brands.
+-Best Brand Detection: Identify the top-performing brand based on positive sentiment percentage.
+
+---
+
+Tech Stack
+-Python
+-Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `textblob` (or `nltk`), `requests`
+-Tools: Jupyter Notebook / VS Code
+-Data Source: Web-scraped product reviews
+
+---
